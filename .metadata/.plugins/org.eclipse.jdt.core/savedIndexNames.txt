@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/c0s09w5/Documents/workspace-java11/.metadata/.plugins/org.eclipse.jdt.core
+3927879410.index
+4008566294.index

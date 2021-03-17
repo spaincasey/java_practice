@@ -1,0 +1,5 @@
+package lambdaexample;
+
+public interface MessagePrinter {
+
+}
